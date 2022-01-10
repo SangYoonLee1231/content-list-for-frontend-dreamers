@@ -1,6 +1,6 @@
 # bookmark-list (북마크 리스트)
 
-* 다시 읽고 싶은 개발 블로그 포스트를 링크를 통해 모아두는 곳입니다.
+* 다시 읽고 싶은 개발 블로그 포스트나 유용한 정보들을 링크를 통해 모아두는 곳입니다.
 
 * * *
 
@@ -24,6 +24,7 @@
 
 * <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈님)</a>
 * <a href="https://www.acmicpc.net/board/view/19849">코드포스 오렌지~레드 이상이 되기 위해선 어떤 공부 방식이 도움이 많이 될까요? (By jwvg0425님)</a>
+* <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By jeon3029님)</a>
 
 <br/>
 
@@ -43,3 +44,14 @@
 * <a href="https://youngban.tistory.com/16">내 업의 본질은 무엇인가?(우테코 피드백) (By 박재성님)</a>
 
 * <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성님)</a>
+
+<br/>
+
+## 프론트엔드 면접 질문 및 필요한 지식
+
+* <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme님)</a>
+* <a href="https://github.com/junh0328/prepare_frontend_interview">prepare_frontend_interview 레포지토리 (By JUNHEE LEE님)</a>
+* <a href="https://github.com/baeharam/Must-Know-About-Frontend">취준생이 반드시 알아야 할 프론트엔드 지식들 레포지토리 (By baeharam님)</a>
+* 
+* <a href="https://velog.io/@honeysuckle/%EC%8B%A0%EC%9E%85-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C">프론트엔드 면접 질문 모음 (By honeysuckle님)</a>
+
