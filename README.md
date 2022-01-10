@@ -13,7 +13,7 @@
 * <a href="https://youngban.tistory.com/16">비전공자 웹개발자로서 살아남는 법 정리본(출처:okky) (By 렛츠기릿님)</a>
 * <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일님)</a>
 * <a href="https://youngban.tistory.com/16">내 업의 본질은 무엇인가?(우테코 피드백) (By 박재성님)</a>
-* <a href="hhttps://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수님)</a>
+* <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수님)</a>
 * <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈님)</a>
 * <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim님)</a>
 * <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영님)</a>
