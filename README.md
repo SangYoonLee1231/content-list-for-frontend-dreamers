@@ -52,6 +52,6 @@
 * <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme님)</a>
 * <a href="https://github.com/junh0328/prepare_frontend_interview">prepare_frontend_interview 레포지토리 (By JUNHEE LEE님)</a>
 * <a href="https://github.com/baeharam/Must-Know-About-Frontend">취준생이 반드시 알아야 할 프론트엔드 지식들 레포지토리 (By baeharam님)</a>
-* 
+
 * <a href="https://velog.io/@honeysuckle/%EC%8B%A0%EC%9E%85-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C">프론트엔드 면접 질문 모음 (By honeysuckle님)</a>
 
