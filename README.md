@@ -23,6 +23,7 @@
 * <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant님)</a>
 
 * <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈님)</a>
+* <a href="https://www.acmicpc.net/board/view/19849">코드포스 오렌지~레드 이상이 되기 위해선 어떤 공부 방식이 도움이 많이 될까요? (By jwvg0425님)</a>
 
 <br/>
 
