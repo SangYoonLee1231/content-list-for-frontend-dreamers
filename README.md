@@ -44,7 +44,7 @@
 ##  웹 개발 - 취업 및 포트폴리오
 
 * <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일님)</a>
-* <a href="https://youngban.tistory.com/16">내 업의 본질은 무엇인가?(우테코 피드백) (By 박재성님)</a>
+* <a href="https://youngban.tistory.com/16">내 업의 본질은 무엇인가? (우아한테크코스 불합격 포트폴리오 피드백) (By 박재성님)</a>
 
 * <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성님)</a>
 
