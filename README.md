@@ -14,7 +14,7 @@
 * <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵님)</a>
 * <a href="https://yonefactory.tistory.com/10">[1인개발] 다이어리 (모바일 게임) (By 돼지테리안님)</a>
 * <a href="https://greypencil.tistory.com/163">"인터넷 사업" 창업 준비, 어디서부터 시작해야 할까? (By greypencil님)</a>
-* 
+
 * <a href="https://brunch.co.kr/@goodgdg/142">"지원자도 회사를 평가합니다. 이렇게요. (By 유디v님)</a>
 
 
