@@ -4,7 +4,7 @@
 
 * * *
 
-* <a href="https://velog.io/lists/liked">velog '좋아한 포스트' 모음</a>
+* <a href="https://velog.io/lists/liked">(개인용) velog '좋아한 포스트' 모음</a>
 
 * * *
 
