@@ -73,9 +73,10 @@
 
  문제가 된다면 내리겠습니다..
 
-* <a href="https://github.com/MaxKim-J/RESUME">Max Kim님의 이력서 [프론트엔드]</a>
+* <a href="https://github.com/MaxKim-J/RESUME">Max Kim님의 깃허브 이력서 [프론트엔드]</a>
 
 * <a href="https://www.notion.so/roharon/Aron-s-Resume-ba5450f1386b4fa79fa55ee5b116e54f">(대학교 선배이신) 노아론님의 이력서 [백엔드]</a>
 * <a href="https://danmin20.notion.site/fb4101f716404d17a4af40b721f4b9c6">이정민님의 이력서 [프론트엔드]</a>
 
+* <a href="https://github.com/Doodream/portfolio">노두현(Luke)님의 깃허브 포트폴리오 [프론트엔드]</a>
 
