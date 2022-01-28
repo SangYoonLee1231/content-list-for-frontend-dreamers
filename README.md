@@ -51,6 +51,8 @@
 
 * <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성님)</a>
 
+<a href="https://velog.io/@surim014/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%84%EC%97%90-%EC%9D%BD%EA%B8%B0-%EC%A2%8B%EC%9D%80-%EC%B1%85%EC%B6%94%EC%B2%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EC%99%84%EC%84%B1%EA%B9%8C%EC%A7%80-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%9B%84%EA%B8%B0">프론트엔드 개발자 면접 전에 읽기 좋은 책추천! "기초부터 완성까지, 프런트엔드" 후기 (By surim014님)</a>
+
 <br/>
 
 ## 프론트엔드 면접 질문 및 필요한 지식
