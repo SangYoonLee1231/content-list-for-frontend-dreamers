@@ -73,6 +73,9 @@
 * <a href="https://velog.io/@wkahd01/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EB%AC%B8%EC%A0%9C-%EC%9D%80%ED%96%89-HTML-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80#css%EC%97%90%EC%84%9C-margin%EA%B3%BC-padding%EC%9D%B4%EB%9E%80">프론트엔드 면접 문제 은행 질문 답변 (By wkahd01님)</a>
 * <a href="https://frontendinterviewhandbook.com/kr/html-questions/">프론트엔드 인터뷰 핸드북 (번역) (By Yangshun Tay님)</a>
 
+* <a href="https://velog.io/@heyiminhye/안녕하세요-프론트엔드-신입에-지원합니다">안녕하세요, 프론트엔드 신입에 지원합니다. (By heyiminhye님)</a>
+
+
 <br/>
 
 ## 개발 선배님들의 실제 이력서 혹은 포트폴리오 (참고용)
