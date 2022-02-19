@@ -74,6 +74,7 @@
 * <a href="https://frontendinterviewhandbook.com/kr/html-questions/">프론트엔드 인터뷰 핸드북 (번역) (By Yangshun Tay님)</a>
 
 * <a href="https://velog.io/@heyiminhye/안녕하세요-프론트엔드-신입에-지원합니다">안녕하세요, 프론트엔드 신입에 지원합니다. (By heyiminhye님)</a>
+* <a href="https://gyoogle.dev/blog/">신입 개발자 전공 지식 & 기술 면접 백과사전 (By Gyuseok Kim님)</a>
 
 
 <br/>
