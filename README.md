@@ -42,6 +42,8 @@
 * <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90님)</a>
 
 * <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수님)</a>
+* <a href="https://haranglog.tistory.com/9">2020 FrontEnd 개발자가 되기 위한 10가지 방법 (By Harang님)</a>
+
 * <a href="https://youngban.tistory.com/16">비전공자 웹개발자로서 살아남는 법 정리본(출처:okky) (By 렛츠기릿님)</a>
 
 * <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn님)</a>
