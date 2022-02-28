@@ -36,7 +36,7 @@
 
 <br/>
 
-## 웹 개발 - 공부 가이드 (프론트엔드 위주)
+## 프론트엔드 공부 가이드 
 
 * <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영님)</a>
 * <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90님)</a>
