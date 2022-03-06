@@ -21,6 +21,7 @@
 
 ## 알고리즘 및 PS 공부
 
+* 
 * <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant님)</a>
 * <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant님)</a>
 
@@ -91,7 +92,7 @@
 
 ## Etc
 
-* <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스님)</a>
+* <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low ()</a>
 
 * <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim님)</a>
 * <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵님)</a>
