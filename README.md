@@ -1,28 +1,23 @@
-# 프론트엔드 드리머를 위한 게시글/자료 모음
+<div align=center>
 
-* 프론트엔드 개발자를 꿈꾸는 모든 사람들에게 유용한 기술 블로그 포스트나 유용한 정보들을 링크를 통해 모아두는 곳입니다.
+# 프론트엔드 드리머를 위한 💻 게시글/자료 모음
+ 
+<img src="https://img.shields.io/badge/author-SYL-lightgrey"></a>
+<img src="https://img.shields.io/apm/l/vim-mode"></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangYoonLee1231%2Fcontent-list-for-frontend-dreamers&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* * *
-
-* <a href="https://velog.io/lists/liked">(개인용) velog '좋아한 포스트' 모음</a>
-
-* * *
-
-* <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스님)</a>
-
-* <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim님)</a>
-* <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵님)</a>
-* <a href="https://yonefactory.tistory.com/10">[1인개발] 다이어리 (모바일 게임) (By 돼지테리안님)</a>
-* <a href="https://greypencil.tistory.com/163">"인터넷 사업" 창업 준비, 어디서부터 시작해야 할까? (By greypencil님)</a>
-
-* <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v님)</a>
-
-* <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho)</a> (개발자의 현실 - 지옥편 느낌..👿)
-
-* <a href="https://phdkim.net/board/free/25236/">컴공 현실이라는데 이게 사실인가요? (By 겁먹은 카를 가우스)</a> (컴공생 입장에서 눈여겨볼만한 댓글들이 꽤 있어 남깁니다.)
-* <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모님)</a>
-
+<img src="https://img.shields.io/github/watchers/SangYoonLee1231/content-list-for-frontend-dreamers?style=social"></a>
+<img src="https://img.shields.io/github/stars/SangYoonLee1231/content-list-for-frontend-dreamers?style=social"></a>
+<img src="https://img.shields.io/github/forks/SangYoonLee1231/content-list-for-frontend-dreamers?style=social"></a>
+ 
 <br/>
+
+</div>
+
+## 소개 💬
+* 프론트엔드 개발자를 꿈꾸는 모든 취준생 분들에게 도움이 될 만한 기술 블로그 포스트 및 여러 자료들을 모아두었습니다.
+
+<br/><br/>
 
 ## 알고리즘 및 PS 공부
 
@@ -92,3 +87,21 @@
 
 * <a href="https://github.com/Doodream/portfolio">노두현(Luke)님의 깃허브 포트폴리오 [프론트엔드]</a>
 
+<br/>
+
+## Etc
+
+* <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스님)</a>
+
+* <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim님)</a>
+* <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵님)</a>
+* <a href="https://yonefactory.tistory.com/10">[1인개발] 다이어리 (모바일 게임) (By 돼지테리안님)</a>
+* <a href="https://greypencil.tistory.com/163">"인터넷 사업" 창업 준비, 어디서부터 시작해야 할까? (By greypencil님)</a>
+
+* <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v님)</a>
+
+* <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho)</a> (개발자의 현실 - 지옥편 느낌..👿)
+
+* <a href="https://phdkim.net/board/free/25236/">컴공 현실이라는데 이게 사실인가요? (By 겁먹은 카를 가우스)</a> (컴공생 입장에서 눈여겨볼만한 댓글들이 꽤 있어 남깁니다.)
+* <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모님)</a>
+* <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
