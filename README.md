@@ -24,7 +24,7 @@
 
 <br/>
 
-## 알고리즘 및 S 공부
+## 알고리즘 및 PS 공부
 
 * <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant님)</a>
 * <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant님)</a>
