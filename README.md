@@ -35,7 +35,7 @@
 
 <br/>
 
-# 프론트엔드 학습 자료
+## 프론트엔드 학습 자료
 
 * <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
