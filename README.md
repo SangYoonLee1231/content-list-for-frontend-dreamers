@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-## 프론트엔드 공부 가이드 및 학습 자료
+## 프론트엔드 공부 가이드
 
 * <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
 
@@ -33,10 +33,14 @@
 
 * <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn 님)</a>
 
+<br/>
+
+# 프론트엔드 학습 자료
+
 * <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
 * <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
-
+ 
 <br/>
 
 ## 코딩테스트 대비 및 PS 공부
