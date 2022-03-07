@@ -1,6 +1,6 @@
 <div align=center>
 
-# 프론트엔드 드리머를 위한 💻 게시글/자료 모음
+# 프론트엔드 취준생를 위한 💻 게시글/자료 모음
  
 <img src="https://img.shields.io/badge/author-SYL-lightgrey"></a>
 <img src="https://img.shields.io/apm/l/vim-mode"></a>
