@@ -15,9 +15,57 @@
 </div>
 
 ## 소개 💬
+
 * 프론트엔드 개발자를 꿈꾸는 모든 취준생 분들에게 도움이 될 만한 기술 블로그 포스트 및 여러 자료들을 모아두었습니다.
 
+* 혹시 따로 추천해주고 싶으신 자료가 있으시다면 언제든 PR과 이슈를 날려주시길 바랍니다. 저도 계속 유익한 자료나 포스트를 찾을 때마다 이곳에 올려두겠습니다.
+
 <br/><br/>
+
+## 코딩테스트 대비
+
+* <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a>  
+
+	PS(Problem Solving)를 처음 하시는 분들께 추천합니다. 기초 문법을 잘 모르셔도 진행할 수 있을만큼 설명이 자세합니다.
+
+* <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low (문제 풀이 사이트)</a>  
+
+	 PS 초심자에게 'CodeUp 기초 100제'와 함께 추천하는 문제집입니다. 좀 더 코딩테스트 대비에 최적화되어 있습니다.
+    
+* <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant 님)</a>  
+
+	코딩테스트에서 코드를 간결하고 효율적으로 짤 수 있는 여러 팁이 잘 정리되어 있습니다.
+
+* <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈 님)</a>  
+
+	PS를 어떻게 공부해야 할 지 막막하거나 자신이 지금 잘 하고 있는지 확신이 안 서는 분들께 추천하는 포스트입니다.
+
+* <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By 태빵 님)</a>  
+
+	태빵님이 작성하신 velog 게시글로, PS 문제 풀이 사이트가 잘 정리되어 있습니다.
+
+* <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a>  
+
+	작성자 Covenant님이 본인 경험을 바탕으로 코딩테스트 대비에 적합한 백준 문제 대략 80개를 골라 잘 정리해주셔서 여기에도 소개합니다.
+
+<br/>
+
+##  취업 및 포트폴리오 조언
+
+* <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일 님)</a>  
+
+	ZUM에서 진행했던 신입 프론트엔드 개발자의 채용 과정을 채용자의 시각에서 기록한 포스트입니다.
+
+* <a href="https://brunch.co.kr/@javajigi/14">내 업의 본질은 무엇인가? (By 박재성 님)</a>  
+
+	우아한테크코스 이사이신 박재성 님께서 우테코 2기 불합격자들의 불합격 이유를 피드백 해주시는 내용의 포스트입니다. 코딩테스트와 자소서를 어떻게 준비해야 할 지 감을 잡는데 도움이 됩니다.
+
+* <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성 님)</a>  
+
+	스타트업 채용 담당자께서 그 동안 어떤 식으로 포트폴리오를 바라보고 평가했는 지에 대해 구체적으로 설명하십니다. 더불어 더 높은 점수를 받는 포트폴리오를 작성하는 방법도 실례를 들어 알려주십니다. (강력 추천)
+
+
+<br/>
 
 ## 프론트엔드 공부 가이드
 
@@ -40,36 +88,14 @@
 * <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
 * <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
- 
-<br/>
 
-## 코딩테스트 대비 및 PS 공부
-
-* <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a>  
-
-* <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low (문제 풀이 사이트)</a>  
-    
-* <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant 님)</a>  
-
-* <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈 님)</a>  
-
-* <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By 태빵 님)</a>  
-
-* <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a>  
-
-<br/>
-
-##  취업 및 포트폴리오 조언
-
-* <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일 님)</a>  
-
-* <a href="https://brunch.co.kr/@javajigi/14">내 업의 본질은 무엇인가? (By 박재성 님)</a>  
-
-* <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성 님)</a>  
 
 <br/>
 
 ## 프론트엔드 면접 질문 및 필요한 지식
+
+이곳 저곳에서 모아둔 자료들로, 주로 깃허브 레포지토리가 많습니다.
+잘 참고하셔서 좋은 결과 있으시길 바라겠습니다. 😊
 
 * <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
 * <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme 님)</a>
@@ -94,14 +120,19 @@
 ## Etc
 
 
-* <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스님)</a>
+* <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스 님)</a>
 
-* <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim님)</a>
+* <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim 님)</a>
 
-* <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵님)</a>
+* <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵 님)</a>
 
-* <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v님)</a>
+* <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v 님)</a>
 
-* <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho)</a> (개발자의 현실 - 지옥편 느낌..👿)
+* <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho 님)</a>  
 
-* <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a>
+	개발자의 현실 - 지옥편 느낌..👿
+
+* <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a>  
+
+	하버드 대학의 인기 강의로 뽑히는 데이비드 말란 교수님의 CS50 강의를 한글 자막과 함께 무료로 볼 수 있어 여기에도 소개합니다.
+<br/>
