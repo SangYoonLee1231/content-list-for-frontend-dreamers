@@ -38,7 +38,7 @@
 
 <br/>
 
-## 목차
+## 📖 목차
 
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84">코딩테스트 대비</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#%EC%B7%A8%EC%97%85-%EB%B0%8F-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A4%80%EB%B9%84-%EB%B0%A9%EB%B2%95">취업 및 포트폴리오 준비 방법</a>
@@ -49,7 +49,7 @@
 
 <br/><br/>
 
-## 코딩테스트 대비
+## 📌 코딩테스트 대비
 
 - <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a>
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-## 취업 및 포트폴리오 준비 방법
+## 📌 취업 및 포트폴리오 준비 방법
 
 - <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일 님)</a>
 
@@ -93,7 +93,7 @@
 
 <br/>
 
-## FE 공부법 및 가이드
+## 📌 FE 공부법 및 가이드
 
 - <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
 
@@ -109,7 +109,7 @@
 
 <br/>
 
-## FE 관련 학습 자료
+## 📌 FE 관련 학습 자료
 
 - <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
@@ -117,10 +117,7 @@
 
 <br/>
 
-## FE 면접 질문 및 필요한 지식
-
-이곳 저곳에서 모아둔 자료들로, 주로 깃허브 레포지토리가 많습니다.
-잘 참고하셔서 좋은 결과 있으시길 바라겠습니다. 😊
+## 📌 FE 면접 질문 및 필요한 지식
 
 - <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
 - <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme 님)</a>
@@ -141,7 +138,7 @@
 
 <br/>
 
-## Etc.
+## 📌 Etc.
 
 - <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스 님)</a>
 
