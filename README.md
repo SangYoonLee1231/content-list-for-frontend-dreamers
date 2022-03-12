@@ -1,5 +1,7 @@
 <div align=center>
 
+<img src="img/frontend-ge5c7571e3_640.png"></img>
+
 # 💻 프론트엔드 취준생을 위한 게시글/자료 모음
 
 <img src="https://img.shields.io/badge/author-SYL-lightgrey"></a>
@@ -86,7 +88,7 @@
 
 <br/>
 
-## 프론트엔드 공부법 및 가이드
+## FE 공부법 및 가이드
 
 - <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
 
@@ -102,7 +104,7 @@
 
 <br/>
 
-## 프론트엔드 학습 자료
+## FE 관련 학습 자료
 
 - <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
@@ -110,7 +112,7 @@
 
 <br/>
 
-## 프론트엔드 면접 질문 및 필요한 지식
+## FE 면접 질문 및 필요한 지식
 
 이곳 저곳에서 모아둔 자료들로, 주로 깃허브 레포지토리가 많습니다.
 잘 참고하셔서 좋은 결과 있으시길 바라겠습니다. 😊
