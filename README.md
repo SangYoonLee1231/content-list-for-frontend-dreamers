@@ -1,6 +1,6 @@
 <div align=center>
 
-# 💻 프론트엔드 취준생을 위한 게시글/자료 모음 💻
+# 💻 프론트엔드 취준생을 위한 포스트/자료 모음 💻
 
 <img src="img/frontend-ge5c7571e3_640.png"></img>
 
