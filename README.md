@@ -1,8 +1,8 @@
 <div align=center>
 
-<img src="img/frontend-ge5c7571e3_640.png"></img>
-
 # 💻 프론트엔드 취준생을 위한 게시글/자료 모음
+
+<img src="img/frontend-ge5c7571e3_640.png"></img>
 
 <img src="https://img.shields.io/badge/author-SYL-lightgrey"></a>
 <img src="https://img.shields.io/apm/l/vim-mode"></a>
