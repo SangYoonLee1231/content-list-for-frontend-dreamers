@@ -125,6 +125,8 @@
 
 ## 📌 FE 면접 질문 및 필요한 지식
 
+(이 카테고리의 자료들엔 따로 첨언을 적지 않겠습니다.)
+
 - <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
 - <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme 님)</a>
 - <a href="https://github.com/junh0328/prepare_frontend_interview">prepare_frontend_interview 레포지토리</a>
