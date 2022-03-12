@@ -40,7 +40,7 @@
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%B5%EB%B6%80-%EA%B0%80%EC%9D%B4%EB%93%9C">프론트엔드 공부 가이드</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">프론트엔드 학습 자료</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%B0%8F-%ED%95%84%EC%9A%94%ED%95%9C-%EC%A7%80%EC%8B%9D">프론트엔드 면접 질문 및 필요한 지식</a>
-- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#etc">Etc</a>
+- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#etc">Etc.</a>
 
 <br/><br/>
 
@@ -152,6 +152,6 @@
 
 - <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a>
 
-      하버드 대학의 인기 강의로 뽑히는 데이비드 말란 교수님의 CS50 강의를 한글 자막과 함께 무료로 볼 수 있어 여기에도 소개합니다.
+  하버드 대학의 인기 강의로 뽑히는 데이비드 말란 교수님의 CS50 강의를 한글 자막과 함께 무료로 볼 수 있어 여기에도 소개합니다.
 
   <br/>
