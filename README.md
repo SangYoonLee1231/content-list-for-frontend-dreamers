@@ -99,13 +99,16 @@
 
 ## 📌 FE 공부법 및 가이드
 
-- <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>  
+- <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
+
   웹 개발자 되고 싶은데 어떻게 시작해야 할 지 감이 안 잡히는 분들께 추천하는 포스트입니다. 앞으로의 대략적인 공부 방향을 잡는데 도움이 될 것입니다.
 
-- <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90 님)</a>  
+- <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90 님)</a>
+
   프론트엔드 개발에 대한 대략적인 틀을 잡아주고, 프론트엔드 개발자가 되기 위해 어떤 역량이 필요한 지 자세히 알려주는 포스트입니다.
 
-- <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수 님)</a>  
+- <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수 님)</a>
+
   코드 스쿼드와 네이버 부스트캠프에서 프론트엔드를 담당하시는 윤지수님께서 작성하신 포스트로, FE 개발자가 실제 업무에서 어떤 일을 하는 지 살펴보고, 이를 바탕으로 경력 같은 신입 FE 개발자가 되기 위해 어떤 경험을 해보면 좋을 지 안내해주십니다.
 
 - <a href="https://haranglog.tistory.com/9">2020 FrontEnd 개발자가 되기 위한 10가지 방법 (By Harang 님)</a>
@@ -114,7 +117,8 @@
 
 - <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn 님)</a>
 
-- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>  
+- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>
+
   라매 개발자님께서 노베이스 상태에서 프론트엔드 개발자가 되기 위해 어떻게 준비하면 되는지를 아주 구체적으로 알려주는 유튜브 영상입니다. 길이는 16분 정도 됩니다.
 
 <br/>
@@ -132,18 +136,24 @@
 (이 카테고리의 자료들엔 따로 부가 설명을 달지 않겠습니다.)
 
 - <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
+
 - <a href="https://velog.io/@suyeonme/%ED%9B%84%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A0%95%EB%A6%AC">프론트엔드 개발자 면접 정리 (By suyeonme 님)</a>
+
 - <a href="https://github.com/junh0328/prepare_frontend_interview">prepare_frontend_interview 레포지토리</a>
 - <a href="https://github.com/baeharam/Must-Know-About-Frontend">취준생이 반드시 알아야 할 프론트엔드 지식들 레포지토리</a>
 
 - <a href="https://velog.io/@honeysuckle/%EC%8B%A0%EC%9E%85-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C">프론트엔드 면접 질문 모음 (By honeysuckle 님)</a>
 
 - <a href="https://realmojo.tistory.com/300">프론트엔드 개발자 기술면접 인터뷰 질문 모음(업데이트) (답변 있음) (By 오렌지셔츠 님)</a>
+
 - <a href="https://sunnykim91.tistory.com/121">프론트엔드 개발자 면접 질문(기술면접) 정리 (By sunnykim91님)</a>
+
 - <a href="https://velog.io/@wkahd01/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EB%AC%B8%EC%A0%9C-%EC%9D%80%ED%96%89-HTML-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80#css%EC%97%90%EC%84%9C-margin%EA%B3%BC-padding%EC%9D%B4%EB%9E%80">프론트엔드 면접 문제 은행 질문 답변 (By wkahd01 님)</a>
+
 - <a href="https://frontendinterviewhandbook.com/kr/html-questions/">프론트엔드 인터뷰 핸드북 (번역) (By Yangshun Tay님)</a>
 
 - <a href="https://velog.io/@heyiminhye/안녕하세요-프론트엔드-신입에-지원합니다">안녕하세요, 프론트엔드 신입에 지원합니다. (By heyiminhye 님)</a>
+
 - <a href="https://gyoogle.dev/blog/">신입 개발자 전공 지식 & 기술 면접 백과사전 (By Gyuseok Kim 님)</a>
 
 - <a href="https://github.com/SangYoonLee1231/brave-tech-interview">Brave Tech Interview 기술면접 문제 해설 레포지토리</a>
