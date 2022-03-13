@@ -57,27 +57,27 @@
 
 ## 📌 코딩테스트 대비 (PS/CP)
 
-- <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a> - PS가 처음인 분들께 추천
+- <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a> (PS가 처음인 분들께 추천)
 
-- <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low (문제 풀이 사이트)</a> -PS 초심자에게 추천하는 코딩테스트 대비 문제집
+- <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low (문제 풀이 사이트)</a> (PS 초심자에게 추천)
 
-- <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant 님)</a> - 코드를 간결하고 효율적으로 짤 수 있는 여러 팁 정리
+- <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant 님)</a> (코드를 간결하고 효율적으로 짤 수 있는 여러 팁 정리)
 
 - <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈 님)</a>
 
 - <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By 태빵 님)</a>
 
-- <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a> - 대략 80개, 주제별로 정리
+- <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a> (대략 80문제, 주제별로 정리)
 
 <br/>
 
 ## 📌 취업 및 포트폴리오 준비 방법
 
-- <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일 님)</a> - ZUM에서 진행
+- <a href="https://zuminternet.github.io/zum-front-recurit-review/">주니어 프론트엔드 개발자의 채용 프로세스 참여 후기 (By 황준일 님)</a> (ZUM에서 진행)
 
-- <a href="https://brunch.co.kr/@javajigi/14">내 업의 본질은 무엇인가? (By 박재성 님)</a> - 우아한테크코스 이사님의 불합격 이유 피드백
+- <a href="https://brunch.co.kr/@javajigi/14">내 업의 본질은 무엇인가? (By 박재성 님)</a> (우아한테크코스 이사님의 우테코 지원자 불합격 이유 피드백)
 
-- <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성 님)</a> - 채용 담당자께서 알려주는 좋은 포트폴리오를 작성법
+- <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성 님)</a> (채용 담당자께서 알려주는 좋은 포트폴리오를 작성법)
 
 <br/>
 
@@ -143,8 +143,8 @@
 
 - <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v 님)</a>
 
-- <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho 님)</a> - 개발자의 현실 : 지옥편 느낌..👿
+- <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho 님)</a> (개발자의 현실 : 지옥편 느낌..👿)
 
-- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> - 하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有)
+- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
   <br/>
