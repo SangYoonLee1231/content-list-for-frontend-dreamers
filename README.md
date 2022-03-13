@@ -100,7 +100,7 @@
 
 ## 📌 FE 관련 학습 자료
 
-- <a href="https://poiemaweb.com/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
+- <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
 - <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
 
