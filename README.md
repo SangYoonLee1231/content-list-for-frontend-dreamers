@@ -67,7 +67,7 @@
 
 - <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By 태빵 님)</a>
 
-- <a href="https://covenant.tistory.com/224#comment17833456">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a> (대략 80문제, 주제별로 정리)
+- <a href="https://covenant.tistory.com/224">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant 님)</a> (대략 80문제, 주제별로 정리)
 
 <br/>
 
