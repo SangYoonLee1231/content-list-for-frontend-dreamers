@@ -129,7 +129,7 @@
 
 - <a href="https://gyoogle.dev/blog/">신입 개발자 전공 지식 & 기술 면접 백과사전 (By Gyuseok Kim 님)</a>
 
-- <a href="https://github.com/SangYoonLee1231/brave-tech-interview">Brave Tech Interview 기술면접 문제 해설 레포지토리</a>
+- <a href="https://github.com/brave-people/brave-tech-interview">Brave Tech Interview 기술면접 문제 해설 레포지토리</a>
 
 <br/>
 
