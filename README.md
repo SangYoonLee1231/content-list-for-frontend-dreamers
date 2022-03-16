@@ -79,6 +79,8 @@
 
 - <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들 (By 김태성 님)</a> (채용 담당자께서 알려주는 좋은 포트폴리오 작성법)
 
+- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>
+
 <br/>
 
 ## 📌 FE 공부법 및 가이드
@@ -93,8 +95,6 @@
 - <a href="https://youngban.tistory.com/16">비전공자 웹개발자로서 살아남는 법 정리본(출처:okky) (By 렛츠기릿 님)</a>
 
 - <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn 님)</a>
-
-- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>
 
 <br/>
 
@@ -147,8 +147,10 @@
 
 - <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
-- <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편)</a>
+- <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편) (By Eddy 님)</a>
 
-- <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편)</a>
+- <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편) (By Eddy 님)</a>
+
+- <a href="https://youtu.be/z1023iDXonc">스타트업 신입 취업성공에 영향을 미치는 요소 (By 라매 개발자 님)</a>
 
   <br/>
