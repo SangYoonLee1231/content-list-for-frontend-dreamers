@@ -104,6 +104,8 @@
 
 - <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
 
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (edwith 강의) (By 윤지수 님)</a>
+
 <br/>
 
 ## 📌 FE 면접 질문 및 필요한 지식
