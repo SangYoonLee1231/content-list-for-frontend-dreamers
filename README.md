@@ -1,6 +1,6 @@
 <div align=center>
 
-# 💻 프론트엔드 취준생을 위한 포스트/자료 모음 💻
+# 💻 프론트엔드 입문자 및 취준생을 위한 포스트/자료 모음 💻
 
 <img src="img/frontend-ge5c7571e3_640.png"></img>
 
@@ -23,6 +23,8 @@
 - <strong>프론트엔드 개발자</strong>를 꿈꾸는 모든 분들에게 <strong>취업 및 이직 준비</strong>에 도움이 될 포스트 및 자료들을 모아 함께 공유합니다! 😃
 
 - 취업과 관련된 자료가 아니거나, 프론트엔드 관련 자료가 아니더라도, <strong>예비 개발자에게 충분히 유익할만한 자료</strong>라면 이곳에 함께 올립니다. 👌
+
+- 주로 개발을 처음 시작하시는 입문자나
 
 <br/>
 
@@ -127,13 +129,23 @@
 
 ## 📌 학습 자료
 
+입문자를 위한 학습 자료부터 주니어 프론트엔드 개발자를 위한 학습 자료까지
+
+- <a href="https://youtu.be/kWiCuklohdY">파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 (유튜브 강의)</a>
+
+- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
+
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수 님)</a>
+
+- <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (온라인 강의) (유료)</a>
+
+- <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (온라인 강의)</a>
+
+- <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (온라인 강의) (By 윤지수 님)</a>
+
 - <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
 - <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
-
-- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (edwith 강의) (By 윤지수 님)</a>
-
-- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
 <br/>
 
