@@ -1,6 +1,6 @@
 <div align=center>
 
-# 💻 프로그래밍 입문자와 FE 취준생을 위한 컨텐츠 모음 💻
+# 💻 프로그래밍 입문자와 FE 취준생을 위한 컨텐츠 모음
 
 <img src="img/frontend-ge5c7571e3_640.png"></img>
 
