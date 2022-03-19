@@ -59,7 +59,9 @@
 
 > 입문자를 위한 학습 자료부터 예비 프론트엔드 개발자를 위한 학습 자료까지
 
-- <a href="https://youtu.be/kWiCuklohdY">파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 (유튜브 강의)</a>
+- <a href="https://youtu.be/M6kQTpIqpLs">[파이썬 유튜브 1시간 30분 강의] 코딩 1시간만에 배우기 - 파이썬 (ft. 실리콘밸리 엔지니어) (By 테크보이 워니 님)</a>
+
+- <a href="https://youtu.be/kWiCuklohdY">[파이썬 유튜브 6시간 강의 - ] 파이썬 코딩 무료 강의 (기본편) (By 나도 코딩 님)</a>
 
 - <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
