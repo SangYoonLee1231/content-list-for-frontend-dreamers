@@ -91,13 +91,13 @@
 
 - <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
 
-<br/>
-
 ## 📌 개발자를 위한 공부법 및 가이드
 
 - <a href="https://youtu.be/d3Kp8QB74-4">개발자 되는법 - 코딩 처음부터 배울때 뭐부터 해야해요? (By 테크보이 워니 님)</a>
 
 - <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵 님)</a>
+
+### 프론트엔드
 
 - <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
 
