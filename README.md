@@ -69,9 +69,9 @@
 
 - <a href="https://youtube.com/playlist?list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS">[C언어 강의] 혼자 공부하는 C 언어 (By 서현우 님)</a>
 
-- <a href="https://codeup.kr/problemsetsol.php?psid=23">[문제 풀이 입문] CodeUp 기초 100제</a> (PS가 처음인 분들께 추천)
+- <a href="https://codeup.kr/problemsetsol.php?psid=23">[문제 풀이 입문] CodeUp 기초 100제</a>
 
-- <a href="https://www.codetree.ai/missions/4">[문제 풀이 입문] Code Tree - Novice Low</a> (PS 초심자에게 추천)
+- <a href="https://www.codetree.ai/missions/4">[문제 풀이 입문] Code Tree - Novice Low</a>
 
 <br/>
 
