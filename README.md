@@ -1,6 +1,6 @@
 <div align=center>
 
-# 💻 FE 입문자 및 취준생을 위한 포스트/자료 모음 💻
+# 💻 개발 입문자와 FE 취준생을 위한 포스트/자료 모음 💻
 
 <img src="img/frontend-ge5c7571e3_640.png"></img>
 
@@ -20,11 +20,9 @@
 
 ## 소개 💬
 
-- <strong>프론트엔드 개발자</strong>를 꿈꾸는 모든 분들에게 유익할 만한 포스트 및 자료들을 모아 함께 공유하고자 합니다. 😃
+- 개발 공부가 처음인 <strong>입문자</strong>이시거나, <strong>프론트엔드 개발자</strong>를 꿈꾸는 모든 분들에게 유익할 만한 포스트 및 자료들을 모아 함께 공유합니다. 😃
 
-- 개발 공부가 처음이신 <strong>입문자</strong> 분들도 모두 환영합니다. 🔥
-
-- 주로 <strong>취업 및 이직 준비</strong>에 도움이 될 자료가 주를 이루나, 유익하다면 어떤 IT 분야든 상관없이 공유합니다. 📙
+- <strong>입문자</strong>를 위한 자료, <strong>취업 및 이직 준비</strong>에 도움이 될 자료가 주를 이루나, 유익하다면 어떤 IT 분야든 상관없이 공유하고자 합나다. 📙
 
 <br/>
 
@@ -48,14 +46,35 @@
 
 ## 📖 목차
 
+- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B3%B5%EB%B6%80%EB%B2%95-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C">개발자를 위한 공부법 및 가이드</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B4%80%EB%A0%A8-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">학습 자료</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84">코딩테스트 대비 (PS/CP)</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%B7%A8%EC%97%85-%EB%B0%8F-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A4%80%EB%B9%84-%EB%B0%A9%EB%B2%95">취업 및 포트폴리오 준비 방법</a>
-- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B3%B5%EB%B6%80%EB%B2%95-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C">FE 공부법 및 가이드</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%B0%8F-%ED%95%84%EC%9A%94%ED%95%9C-%EC%A7%80%EC%8B%9D">FE 면접 질문 및 필요한 지식</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-etc">Etc.</a>
 
 <br/><br/>
+
+## 📌 개발자를 위한 공부법 및 가이드
+
+- <a href="https://youtu.be/d3Kp8QB74-4">개발자 되는법 - 코딩 처음부터 배울때 뭐부터 해야해요? (By 테크보이 워니 님)</a>
+
+- <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵 님)</a>
+
+- <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
+
+- <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90 님)</a>
+- <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수 님)</a>
+
+- <a href="https://haranglog.tistory.com/9">2020 FrontEnd 개발자가 되기 위한 10가지 방법 (By Harang 님)</a>
+
+- <a href="https://youngban.tistory.com/16">비전공자 웹개발자로서 살아남는 법 정리본(출처:okky) (By 렛츠기릿 님)</a>
+
+- <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn 님)</a>
+
+- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>
+
+<br/>
 
 ## 📌 학습 자료
 
@@ -105,23 +124,6 @@
 
 <br/>
 
-## 📌 FE 공부법 및 가이드
-
-- <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여 (By 정호영 님)</a>
-
-- <a href="https://seunghyun90.tistory.com/77">프론트엔드 개발, 뭐하는 직종이야? (By paul90 님)</a>
-- <a href="https://medium.com/codesquad-kr/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5ac7bb6ff2a9">웹 프론트엔드 개발자, 어떻게 준비해야 할까? (By 윤지수 님)</a>
-
-- <a href="https://haranglog.tistory.com/9">2020 FrontEnd 개발자가 되기 위한 10가지 방법 (By Harang 님)</a>
-
-- <a href="https://youngban.tistory.com/16">비전공자 웹개발자로서 살아남는 법 정리본(출처:okky) (By 렛츠기릿 님)</a>
-
-- <a href="https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C">프론트엔드 추천 자료 모음 (By ansrjsdn 님)</a>
-
-- <a href="https://youtu.be/YbVuqWD12Ko">웹 프론트엔드 개발자 아무것도 모르는 상태에서 취업까지 하는 구체적인 준비방법 (By 라매 개발자 님)</a>
-
-<br/>
-
 ## 📌 FE 면접 질문 및 필요한 지식
 
 - <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
@@ -154,8 +156,6 @@
 - <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스 님)</a>
 
 - <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관 (By Sungho Kim 님)</a>
-
-- <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게... (By 신현묵 님)</a>
 
 - <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v 님)</a>
 
