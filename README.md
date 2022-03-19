@@ -73,8 +73,6 @@
 
 - <a href="https://www.codetree.ai/missions/4">[문제 풀이 입문] Code Tree - Novice Low</a>
 
-<br/>
-
 ### For 예비 프론트엔드 개발자
 
 - <a href="https://youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">생활코딩 - WEB 1 (By 이고잉 님)</a>
@@ -90,6 +88,8 @@
 - <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
 - <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
+
+<br/>
 
 ## 📌 개발자를 위한 공부법 및 가이드
 
