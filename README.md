@@ -59,17 +59,31 @@
 
 > 입문자를 위한 학습 자료부터 예비 프론트엔드 개발자를 위한 학습 자료까지
 
-- <a href="https://youtu.be/M6kQTpIqpLs">[파이썬 유튜브 1시간 30분 강의] 코딩 1시간만에 배우기 - 파이썬 (ft. 실리콘밸리 엔지니어) (By 테크보이 워니 님)</a>
+### For 프로그래밍 입문자
 
-- <a href="https://youtu.be/kWiCuklohdY">[파이썬 유튜브 6시간 강의 - ] 파이썬 코딩 무료 강의 (기본편) (By 나도 코딩 님)</a>
+- <a href="https://www.boostcourse.org/cs112">[프로그래밍 입문, C언어] 모두를 위한 컴퓨터 과학</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
-- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
+- <a href="https://youtu.be/M6kQTpIqpLs">[파이썬 1시간 30분 강의] 코딩 1시간만에 배우기 - 파이썬 (ft. 실리콘밸리 엔지니어) (By 테크보이 워니 님)</a>
 
-- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수 님)</a>
+- <a href="https://youtu.be/kWiCuklohdY">[파이썬 6시간 강의] 파이썬 코딩 무료 강의 (기본편) (By 나도 코딩 님)</a>
+
+- <a href="https://youtube.com/playlist?list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS">[C언어 강의] 혼자 공부하는 C 언어 (By 서현우 님)</a>
+
+- <a href="https://codeup.kr/problemsetsol.php?psid=23">[문제 풀이 입문] CodeUp 기초 100제</a> (PS가 처음인 분들께 추천)
+
+- <a href="https://www.codetree.ai/missions/4">[문제 풀이 입문] Code Tree - Novice Low</a> (PS 초심자에게 추천)
+
+<br/>
+
+### For 예비 프론트엔드 개발자
+
+- <a href="https://youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">생활코딩 - WEB 1 (By 이고잉 님)</a>
 
 - <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (온라인 강의) (유료)</a>
 
 - <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (온라인 강의)</a>
+
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수 님)</a>
 
 - <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (온라인 강의) (By 윤지수 님)</a>
 
@@ -102,10 +116,6 @@
 <br/>
 
 ## 📌 코딩테스트 대비 (PS/CP)
-
-- <a href="https://codeup.kr/problemsetsol.php?psid=23">CodeUp 기초 100제 (문제 풀이 사이트)</a> (PS가 처음인 분들께 추천)
-
-- <a href="https://www.codetree.ai/missions/4">Code Tree - Novice Low (문제 풀이 사이트)</a> (PS 초심자에게 추천)
 
 - <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant 님)</a> (코드를 간결하고 효율적으로 짤 수 있는 여러 팁 정리)
 
