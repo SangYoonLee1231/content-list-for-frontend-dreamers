@@ -48,14 +48,36 @@
 
 ## 📖 목차
 
-- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84">코딩테스트 대비</a>
+- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B4%80%EB%A0%A8-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">학습 자료</a>
+- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84">코딩테스트 대비 (PS/CP)</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%B7%A8%EC%97%85-%EB%B0%8F-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A4%80%EB%B9%84-%EB%B0%A9%EB%B2%95">취업 및 포트폴리오 준비 방법</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B3%B5%EB%B6%80%EB%B2%95-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C">FE 공부법 및 가이드</a>
-- <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EA%B4%80%EB%A0%A8-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">FE 관련 학습 자료</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%B0%8F-%ED%95%84%EC%9A%94%ED%95%9C-%EC%A7%80%EC%8B%9D">FE 면접 질문 및 필요한 지식</a>
 - <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-etc">Etc.</a>
 
 <br/><br/>
+
+## 📌 학습 자료
+
+> 입문자를 위한 학습 자료부터 예비 프론트엔드 개발자를 위한 학습 자료까지
+
+- <a href="https://youtu.be/kWiCuklohdY">파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 (유튜브 강의)</a>
+
+- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
+
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수 님)</a>
+
+- <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (온라인 강의) (유료)</a>
+
+- <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (온라인 강의)</a>
+
+- <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (온라인 강의) (By 윤지수 님)</a>
+
+- <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
+
+- <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
+
+<br/>
 
 ## 📌 코딩테스트 대비 (PS/CP)
 
@@ -124,28 +146,6 @@
 - <a href="https://gyoogle.dev/blog/">신입 개발자 전공 지식 & 기술 면접 백과사전 (By Gyuseok Kim 님)</a>
 
 - <a href="https://github.com/brave-people/brave-tech-interview">Brave Tech Interview 기술면접 문제 해설 레포지토리</a>
-
-<br/>
-
-## 📌 학습 자료
-
-입문자를 위한 학습 자료부터 주니어 프론트엔드 개발자를 위한 학습 자료까지
-
-- <a href="https://youtu.be/kWiCuklohdY">파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 (유튜브 강의)</a>
-
-- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
-
-- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수 님)</a>
-
-- <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (온라인 강의) (유료)</a>
-
-- <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (온라인 강의)</a>
-
-- <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (온라인 강의) (By 윤지수 님)</a>
-
-- <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
-
-- <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
 
 <br/>
 
