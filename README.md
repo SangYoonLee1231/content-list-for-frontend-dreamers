@@ -20,15 +20,15 @@
 
 ## 소개 💬
 
-- <strong>프론트엔드 개발자를 꿈꾸는 모든 분들</strong>에게 도움이 될 포스트 및 여러 자료들을 모아 함께 공유합니다! 😃
+- <strong>프론트엔드 개발자</strong>를 꿈꾸는 모든 분들에게 <strong>취업 및 이직 준비</strong>에 도움이 될 포스트 및 자료들을 모아 함께 공유합니다! 😃
 
-- 프론트엔드 관련 자료가 아니더라도 <strong>IT 계열 취업 준비생에게 유익한 자료</strong>라면 이곳에 함께 올립니다. 👌
+- 취업과 관련된 자료가 아니거나, 프론트엔드 관련 자료가 아니더라도, <strong>예비 개발자에게 충분히 유익할만한 자료</strong>라면 이곳에 함께 올립니다. 👌
 
 <br/>
 
 - 유익한 자료나 포스트를 새로 찾을 때마다 계속 <strong>업데이트</strong> 하겠습니다. ✔
 
-- 이 오픈소스 저장소는 <strong><a href="https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음">해당 velog 포스트</a>를 통해 시작되었음</strong>을 밝힙니다. ⚡
+- 이 오픈소스 저장소는 <strong><a href="https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음">해당 velog 포스트</a>를 통해 본격적으로 시작되었음</strong>을 밝힙니다. ⚡
 
 ---
 
@@ -98,16 +98,6 @@
 
 <br/>
 
-## 📌 FE 관련 학습 자료
-
-- <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
-
-- <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
-
-- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (edwith 강의) (By 윤지수 님)</a>
-
-<br/>
-
 ## 📌 FE 면접 질문 및 필요한 지식
 
 - <a href="https://coding-restaurant.tistory.com/137">신입 개발자 면접 준비 (1) : 일반 면접 관련 예상 질문(개발 외) (By 코딩맛집 님)</a>
@@ -135,6 +125,18 @@
 
 <br/>
 
+## 📌 학습 자료
+
+- <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
+
+- <a href="https://poiemaweb.com/">Web Development Tutorial (웹 개발 튜토리얼 사이트) (By 이웅모 님)</a>
+
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (edwith 강의) (By 윤지수 님)</a>
+
+- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
+
+<br/>
+
 ## 📌 Etc.
 
 - <a href="http://jamestic.egloos.com/3288119">성장의 조건 (By 제임스 님)</a>
@@ -146,8 +148,6 @@
 - <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요. (By 유디v 님)</a>
 
 - <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유 (By botho 님)</a> (개발자의 현실 : 지옥편 느낌..👿)
-
-- <a href="https://www.boostcourse.org/cs112">모두를 위한 컴퓨터 과학 (온라인 강의)</a> (하버드 대학 데이비드 말란 교수님의 CS50 강의 (한글 자막 有))
 
 - <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편) (By Eddy 님)</a>
 
