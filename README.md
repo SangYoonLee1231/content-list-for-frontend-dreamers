@@ -87,6 +87,8 @@
 
 - <a href="https://react.vlpt.us/">벨로퍼트와 함께하는 모던 리액트 (By velopart님)</a>
 
+- <a href="https://velog.io/@velopert/react-hooks">리액트의 Hooks 완벽 정복하기 (By velopart님)</a>
+
 <br/>
 
 ## 📌 개발자를 위한 공부법 및 가이드
