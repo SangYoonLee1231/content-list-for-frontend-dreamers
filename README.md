@@ -181,3 +181,10 @@
 - <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편) (By Eddy님)</a>
 
 - <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편) (By Eddy님)</a>
+
+<br/>
+
+### 이 저장소를 만든 취지
+
+- 저는 지금까지 (특히 온라인에서) 간접적으로 많은 분들에게 도움을 받았습니다.  
+  그래서 저도 조금이라도 다른 분들에게 도움이 되고자 이 저장소를 만들고 운영하기 시작했습니다.
