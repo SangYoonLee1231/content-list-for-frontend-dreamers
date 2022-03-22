@@ -139,6 +139,8 @@
 
 - <a href="https://youtu.be/z1023iDXonc">스타트업 신입 취업성공에 영향을 미치는 요소 (By 라매 개발자님)</a>
 
+- <a href="https://f-lab.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%95%A9%EA%B2%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EB%A0%A5%EC%84%9C-1-by-f-lab-d7eff8e39422">카카오 합격 개발자 이력서 1 (By. F-Lab)</a>
+
 <br/>
 
 ## 📌 FE 면접 질문 및 필요한 지식
