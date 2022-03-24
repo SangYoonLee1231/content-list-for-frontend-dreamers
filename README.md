@@ -168,6 +168,8 @@
 
 - <a href="https://github.com/brave-people/brave-tech-interview">Brave Tech Interview 기술면접 문제 해설 레포지토리</a>
 
+- <a href="https://velog.io/@heyum/series/Lecture-Concept">[CS 기본 개념] 전공면접 준비자료 (블로그 포스팅 시리즈) (By heyum님)</a>
+
 <br/>
 
 ## 📌 Etc.
