@@ -117,11 +117,13 @@
 
 <br/>
 
-## 📌 코딩테스트 대비 (PS/CP)
+## 📌 코딩테스트 대비 및 PS 공부
 
 - <a href="https://covenant.tistory.com/141">용감하게 시작하는 코딩테스트 1편 (By Covenant님)</a> (코드를 간결하고 효율적으로 짤 수 있는 여러 팁 정리)
 
 - <a href="https://subinium.github.io/PS-Study-Types-and-Complements/">개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 (By 안수빈님)</a>
+
+- <a href="https://shoark7.github.io/programming/algorithm/how-i-approach-algorithm-from-my-way">내가 알고리즘 문제를 푸는 방법 (By SUNGHWAN PARK님)</a>
 
 - <a href="https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C">코딩테스트 준비 사이트 모음집(단순링크만) (By 태빵님)</a>
 
@@ -187,5 +189,3 @@
 - <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편) (By Eddy님)</a>
 
 - <a href="https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0?fbclid=IwAR2-VBu8F6jXnd_lq3TFp6LsW4RRuNXW6mPSgi3bi4tta2YDSYSU-0-bLqc">국내/한국 개발자 커뮤니티 모아보기 (By 오픈서포트님)</a>
-
-- <a href="https://shoark7.github.io/programming/algorithm/how-i-approach-algorithm-from-my-way">내가 알고리즘 문제를 푸는 방법 (By SUNGHWAN PARK님)</a>
