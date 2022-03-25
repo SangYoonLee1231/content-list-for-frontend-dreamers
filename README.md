@@ -185,3 +185,5 @@
 - <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편) (By Eddy님)</a>
 
 - <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편) (By Eddy님)</a>
+
+- <a href="https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0?fbclid=IwAR2-VBu8F6jXnd_lq3TFp6LsW4RRuNXW6mPSgi3bi4tta2YDSYSU-0-bLqc">국내/한국 개발자 커뮤니티 모아보기 (By 오픈서포트님)</a>
