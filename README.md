@@ -174,6 +174,8 @@
 
 - <a href="https://velog.io/@heyum/series/Lecture-Concept">[CS 기본 개념] 전공면접 준비자료 (블로그 포스팅 시리즈) (By heyum님)</a>
 
+- <a href="https://www.youtube.com/watch?v=dh406O2v_1c">브라우저에 google.com을 치면 일어나는 일 (유튜브 영상 / 영어)</a>
+
 <br/>
 
 ## 📌 Etc.
