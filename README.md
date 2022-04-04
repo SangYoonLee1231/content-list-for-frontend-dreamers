@@ -133,6 +133,8 @@
 
 - <a href="https://covenant.tistory.com/224">코딩테스트 대비를 위한 백준 문제 추천 (By Covenant님)</a> (대략 80문제, 주제별로 정리)
 
+- <a href="https://gliver.tistory.com/6">알고리즘 공부법 (코테(또는 대회)를 위한 공부법) (By Gliver님)</a>
+
 <br/>
 
 ## 📌 취업 및 포트폴리오 준비
