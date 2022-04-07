@@ -153,6 +153,8 @@
 
 - <a href="https://wonny.space/writing/work/engineer-resume">개발자 이력서 작성하기 (feat. 이력서 공개) (By Wonny (워니)님)</a>
 
+- <a href="https://minieetea.com/2021/04/archives/6193">잘 정리된 이력서보다 중요한 것 (By minieetea님)</a>
+
 <br/>
 
 ## 📌 FE 면접 질문 및 필요한 지식
