@@ -166,7 +166,8 @@
 - <a href="https://brunch.co.kr/@javajigi/14">내 업의 본질은 무엇인가?</a> (By 박재성님)  
   (우아한테크코스 이사님께서 우테코 지원자들의 불합격 이유를 피드백하며 작성한 포스트)
 
-- <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들</a> (By 김태성님) (채용 담당자께서 알려주는 좋은 포트폴리오 작성법)
+- <a href="https://medium.com/%EC%98%A4%EC%9D%BC%EB%82%98%EC%9A%B0-%ED%8C%80-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-ac5304a9ecb9">신입 개발자가 포트폴리오를 준비할 때 알아두면 좋은 것들</a> (By 김태성님)  
+   (채용 담당자께서 알려주는 좋은 포트폴리오 작성법)
 
 - <a href="https://youtu.be/z1023iDXonc">스타트업 신입 취업성공에 영향을 미치는 요소</a> (By 라매개발자님)
 
