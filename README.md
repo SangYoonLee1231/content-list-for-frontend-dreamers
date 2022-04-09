@@ -75,15 +75,15 @@
 
 ### For 예비 프론트엔드 개발자
 
-- <a href="https://youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">생활코딩 - WEB 1 (By 이고잉님)</a>
+- <a href="https://youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">생활코딩 - WEB 1 (무료 강의) (By 이고잉님)</a>
 
-- <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (온라인 강의) (유료)</a>
+- <a href="https://nomadcoders.co/kokoa-clone/lobby">노마드 코더 - 코코아톡 클론코딩 (유료 강의)</a>
 
-- <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (온라인 강의)</a>
+- <a href="https://nomadcoders.co/javascript-for-beginners/lobby">노마드 코더 - 바닐라 JS로 크롬 앱 만들기 (무료 강의)</a>
 
-- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (온라인 강의) (By 윤지수님)</a>
+- <a href="https://www.edwith.org/htmlcss">초보자를 위한 HTML & CSS 동작과 원리 (무료 강의) (By 윤지수님)</a>
 
-- <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (온라인 강의) (By 윤지수님)</a>
+- <a href="https://www.boostcourse.org/web316/joinLectures/12943">웹 프로그래밍 (풀스택) (무료 강의) (By 윤지수님)</a>
 
 - <a href="https://ko.javascript.info/">모던 JavaScript 튜토리얼 (JavaScript 학습 사이트)</a>
 
