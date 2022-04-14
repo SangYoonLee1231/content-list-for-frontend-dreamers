@@ -248,3 +248,5 @@
 - <a href="https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0?fbclid=IwAR2-VBu8F6jXnd_lq3TFp6LsW4RRuNXW6mPSgi3bi4tta2YDSYSU-0-bLqc">국내/한국 개발자 커뮤니티 모아보기</a> (By 오픈서포트님)
 
 - <a href="https://jbee.io/essay/good_questionor/">질문을 잘하는 개발자</a> (By 한재엽님)
+
+- <a href="https://blog.pocu.academy/ko/2019/03/15/how-to-ask-questions-effectively.html">가이드: 효과적인 온라인 질문법</a> (By 윤아님)
