@@ -32,6 +32,12 @@
 
 - 이 오픈소스 저장소는 <strong><a href="https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음">해당 velog 포스트</a></strong>를 통해 본격적으로 시작되었음을 밝힙니다. ⚡
 
+<div align=center>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sylagape1231&slug=프론트엔드-취준생을-위한-게시글자료-모음)](https://velog.io/@sylagape1231/프론트엔드-취준생을-위한-게시글자료-모음)
+
+</div>
+  
 <br/>
 
 <div align=center>
