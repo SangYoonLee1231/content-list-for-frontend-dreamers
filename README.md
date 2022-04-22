@@ -256,3 +256,5 @@
 - <a href="https://jbee.io/essay/good_questionor/">질문을 잘하는 개발자</a> (By 한재엽님)
 
 - <a href="https://blog.pocu.academy/ko/2019/03/15/how-to-ask-questions-effectively.html">가이드: 효과적인 온라인 질문법</a> (By 윤아님)
+
+- <a href="https://youtu.be/_g29ihPpDnE">30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’</a> (By 박종천님)
