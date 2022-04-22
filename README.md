@@ -130,6 +130,8 @@
 
 - <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게...</a> (By 신현묵님)
 
+- <a href="https://youtu.be/x7k4iVDMDhM">초보자는 어떤 프로그래밍 언어를 배워야 하나요?</a> (By 야살님)
+
 ### 프론트엔드
 
 - <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여</a> (By 정호영님)
