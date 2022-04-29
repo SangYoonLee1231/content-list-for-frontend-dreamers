@@ -261,4 +261,4 @@
 
 - <a href="https://youtu.be/_g29ihPpDnE">30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’</a> (By 박종천님)
 
-- <a href="https://agilemanifesto.org/iso/ko/manifesto.ht">애자일 소프트웨어 개발 선언문</a>
+- <a href="https://agilemanifesto.org/iso/ko/manifesto.html">애자일 소프트웨어 개발 선언문</a>
