@@ -183,9 +183,11 @@
 
 - <a href="https://wonny.space/writing/work/engineer-resume">개발자 이력서 작성하기 (feat. 이력서 공개)</a> (By Wonny (워니)님)
 
-- <a href="https://minieetea.com/2021/04/archives/6193">잘 정리된 이력서보다 중요한 것 </a> (By minieetea님)
+- <a href="https://minieetea.com/2021/04/archives/6193">잘 정리된 이력서보다 중요한 것</a> (By minieetea님)
 
-- <a href="https://velog.io/@junghyeonsu/그런-포트폴리오로-괜찮은가">그런 포트폴리오로 괜찮은가 </a> (By 장현수님)
+- <a href="https://velog.io/@junghyeonsu/그런-포트폴리오로-괜찮은가">그런 포트폴리오로 괜찮은가</a> (By 장현수님)
+
+- <a href="https://goldenrabbit.co.kr/2022/03/23/%EB%A9%B4%EC%A0%91%EC%9D%84-%EC%95%9E%EB%91%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%80%EB%A7%9D%EC%83%9D%EC%97%90%EA%B2%8C/">면접을 앞둔 개발자 지망생에게</a> (By 박종찬님)
 
 <br/>
 
