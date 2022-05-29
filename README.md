@@ -132,6 +132,8 @@
 
 - <a href="https://youtu.be/x7k4iVDMDhM">초보자는 어떤 프로그래밍 언어를 배워야 하나요?</a> (By 야살님)
 
+- <a href="https://youtu.be/u1ByKUip9q0">블리자드 레전드 개발자의 30년 압축 핵심 노하우</a> (By 박종천님)
+
 ### 프론트엔드
 
 - <a href="https://wayhome25.github.io/etc/2017/02/21/for-junior-web-developer/">초보 웹 개발자를 위하여</a> (By 정호영님)
