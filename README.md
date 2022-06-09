@@ -126,6 +126,8 @@
 
 - <a href="https://youtu.be/d3Kp8QB74-4">개발자 되는법 - 코딩 처음부터 배울때 뭐부터 해야해요?</a> (By 테크보이 워니님)
 
+- <a href="https://www.youtube.com/watch?v=Xcy2Pq6LABk">프로그래밍 학습 방법</a> (By 박재성님)
+
 - <a href="https://youtu.be/Xxg581iRWks">개발자 되려면 어떻게 코딩 배워야 돼요? - 현직 개발자가 알려드립니다.</a> (By 테크보이 워니님)
 
 - <a href="https://brunch.co.kr/@supims/2#comment">개발자가 되고픈 어린 친구들에게...</a> (By 신현묵님)
