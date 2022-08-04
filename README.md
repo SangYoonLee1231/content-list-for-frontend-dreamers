@@ -273,6 +273,8 @@
 
 - <a href="https://velog.io/@eddy_song/git-3levels-4">초등학생에게 Git branch와 merge를 설명해본다면? (Git 2편)</a> (By Eddy님)
 
+- <a href="https://backlog.com/git-tutorial/kr/intro/intro1_1.html">누구나 쉽게 이용할 수 있는 Git 입문</a>
+
 - <a href="https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0?fbclid=IwAR2-VBu8F6jXnd_lq3TFp6LsW4RRuNXW6mPSgi3bi4tta2YDSYSU-0-bLqc">국내/한국 개발자 커뮤니티 모아보기</a> (By 오픈서포트님)
 
 - <a href="https://jbee.io/essay/good_questionor/">질문을 잘하는 개발자</a> (By 한재엽님)
