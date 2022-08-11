@@ -42,15 +42,14 @@
 
 <div align=center>
 
-#### 🔥 혹시 추천해주고 싶으신 컨텐츠가 따로 있으시다면..
+#### 🔥 혹시 추천해주고 싶으신 컨텐츠가 따로 있으시다면 🔥
 
-</div>
 
-- 아래 <strong>Etc.</strong>에 링크를 추가하고 <strong>Pull Request</strong>를 날려주시길 바랍니다.
+아래 <strong>Etc.</strong>에 링크를 추가하고 <strong>Pull Request</strong>를 날려주시길 바랍니다.
 
-- <strong>꼭 프론트엔드 관련 자료가 아니더라도 괜찮습니다.</strong>
+<strong>꼭 프론트엔드 관련 자료가 아니더라도 괜찮습니다.</strong>
 
-- 저작권법에 위반되는 컨텐츠는 공유는 ❌
+저작권법에 위반되는 컨텐츠는 공유는 ❌
 
 </div>
 
