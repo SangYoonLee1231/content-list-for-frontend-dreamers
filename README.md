@@ -202,9 +202,9 @@
 
 - <a href="https://yozm.wishket.com/magazine/detail/700/">내가 개발 인터뷰에서 면접자에게 감동한 이유</a> (By 위시켓 / 해외 콘텐츠 번역문)
 
-- <a href="https://careerly.co.kr/comments/62600?utm_campaign=user-share">경력직 면접 때 꼭 물어보는 질문 5가지 (By 김범수님)</a>
+- <a href="https://careerly.co.kr/comments/62600?utm_campaign=user-share">경력직 면접 때 꼭 물어보는 질문 5가지</a> (By 김범수님)
 
-- <a href="https://twitter.com/isValidUserId/status/1538134200708395008">개발적인 실력이 부족하여, 스스로를 어필하기 위해 써먹은 면접 전략 (By 1호님)</a>
+- <a href="https://twitter.com/isValidUserId/status/1538134200708395008">개발적인 실력이 부족하여, 스스로를 어필하기 위해 써먹은 면접 전략</a> (By 1호님)
 
 <br/>
 
