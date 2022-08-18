@@ -125,7 +125,7 @@
 
 - <a href="https://joshua1988.github.io/webpack-guide/guide.html">Webpack 핸드북</a>
 
-- <a href=""></a>
+- <a href="https://intrepidgeeks.com/">Intrepidgeeks - 개발자가 도움이 되는 문서와 사이트를 정리하고 수집하는 데 전념하다</a>
 
 <br/>
 
