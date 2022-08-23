@@ -206,6 +206,8 @@
 
 - <a href="https://twitter.com/isValidUserId/status/1538134200708395008">개발적인 실력이 부족하여, 스스로를 어필하기 위해 써먹은 면접 전략</a> (By 1호님)
 
+- <a href="https://nomadcoders.co/community/thread/3979">프론트엔드 신입 개발자로 취업하게 된 30대 비전공자 면접 후기</a> (By befree님)
+
 <br/>
 
 ## 📌 FE 면접 질문 및 필요한 지식
