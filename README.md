@@ -127,6 +127,10 @@
 
 - <a href="https://intrepidgeeks.com/">Intrepidgeeks - 개발자가 도움이 되는 문서와 사이트를 정리하고 수집하는 데 전념하다</a>
 
+- <a href="https://thebook.io/080270/">Let's Get IT 자바스크립트 프로그래밍</a>
+
+- <a href="https://thebook.io/080270/">CSS Layout - Patterns (CSS 만으로 레이아웃을 만드는 법의 예시)</a>
+
 <br/>
 
 ## 📌 개발자를 위한 공부법 및 가이드
