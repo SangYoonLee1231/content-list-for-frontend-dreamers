@@ -135,6 +135,8 @@
 
 ## 📌 개발자를 위한 공부법 및 가이드
 
+- <a href="https://youtu.be/FVRXlaC1oZg">개발을 시작한 당신에게 해주고 싶은 이야기</a> (By 노마드코더 니꼬쌤)
+
 - <a href="https://youtu.be/d3Kp8QB74-4">개발자 되는법 - 코딩 처음부터 배울때 뭐부터 해야해요?</a> (By 테크보이 워니님)
 
 - <a href="https://www.youtube.com/watch?v=Xcy2Pq6LABk">프로그래밍 학습 방법</a> (By 박재성님)
