@@ -44,7 +44,6 @@
 
 #### 🔥 혹시 추천해주고 싶으신 컨텐츠가 따로 있으시다면 🔥
 
-
 아래 <strong>Etc.</strong>에 링크를 추가하고 <strong>Pull Request</strong>를 날려주시길 바랍니다.
 
 <strong>꼭 프론트엔드 관련 자료가 아니더라도 괜찮습니다.</strong>
@@ -245,6 +244,8 @@
 - <a href="https://velog.io/@heyum/series/Lecture-Concept">[CS 기본 개념] 전공면접 준비자료 (블로그 포스팅 시리즈)</a> (By heyum님)
 
 - <a href="https://www.youtube.com/watch?v=dh406O2v_1c">브라우저에 google.com을 치면 일어나는 일 (유튜브 영상 / 영어)</a>
+
+- <a href="https://github.com/SantonyChoi/what-happens-when-KR">브라우저에 google.com을 치면 일어나는 일 (깃허브) (매우 자세)</a> (By Alex님 / 번역 : Hoon Choi님)
 
 <br/>
 
