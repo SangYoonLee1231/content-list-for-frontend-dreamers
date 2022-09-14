@@ -247,6 +247,8 @@
 
 - <a href="https://github.com/SantonyChoi/what-happens-when-KR">브라우저에 google.com을 치면 일어나는 일 (깃허브) (매우 자세)</a> (By Alex님 / 번역 : Hoon Choi님)
 
+- <a href="https://velog.io/@sylagape1231/주소창에-naver.com을-치면-일어나는-일을-쉽게-이해해보자">주소창에 naver.com을 치면 일어나는 일을 쉽게 이해해보자</a> (By 이상윤님)
+
 <br/>
 
 ## 📌 프로젝트 후기
