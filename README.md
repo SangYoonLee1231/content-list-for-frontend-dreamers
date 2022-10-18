@@ -279,6 +279,8 @@
 
 - <a href="https://brunch.co.kr/@goodgdg/142">지원자도 회사를 평가합니다. 이렇게요.</a> (By 유디v님)
 
+- <a href="https://zdnet.co.kr/view/?no=20170616090644">개발자의 평생공부 - [임백준 칼럼] 실력은 고통의 총합이다</a>
+
 - <a href="https://dnf-lover.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EA%B0%9C%EB%B0%9C%EC%AA%BD%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%A0%A4%EA%B3%A0-%ED%95%98%EB%8A%94-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%93%A4%ED%95%9C%ED%85%8C-%EA%B0%80%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">개발자들이 개발쪽으로 가려고 하는 비전공자들한테 가지 말라고 하는 이유</a> (By botho님) (개발자의 현실 : 지옥편 느낌..👿)
 
 - <a href="https://velog.io/@eddy_song/git-3levels-1">초등학생에게 Git을 설명해본다면? (Git 1편)</a> (By Eddy님)
