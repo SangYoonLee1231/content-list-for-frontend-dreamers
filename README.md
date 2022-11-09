@@ -138,6 +138,8 @@
 
 - <a href="https://youtu.be/d3Kp8QB74-4">개발자 되는법 - 코딩 처음부터 배울때 뭐부터 해야해요?</a> (By 테크보이 워니님)
 
+- <a href="https://aaronryu.github.io/2021/02/07/things-that-i-should-have-known-when-i-was-a-junior-developer/?utm_source=stibee&utm_medium=organic_newsletter&utm_campaign=weletter&utm_content=vol3&utm_term=2_advice">신입 개발자였던 내게 해주고싶은 조언들</a> (By Aaron Ryu님)
+
 - <a href="https://www.youtube.com/watch?v=Xcy2Pq6LABk">프로그래밍 학습 방법</a> (By 박재성님)
 
 - <a href="https://youtu.be/Xxg581iRWks">개발자 되려면 어떻게 코딩 배워야 돼요? - 현직 개발자가 알려드립니다.</a> (By 테크보이 워니님)
