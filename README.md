@@ -303,6 +303,8 @@
 
 - <a href="https://youtu.be/_g29ihPpDnE">30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’</a> (By 박종천님)
 
+- <a href="https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2">함께 일하고 싶은 사람 - 1. 업무 습관</a> (By PlanB님)
+
 - <a href="https://agilemanifesto.org/iso/ko/manifesto.html">애자일 소프트웨어 개발 선언문</a>
 
 - <a href="https://www.curioustore.com/#!/">변수명을 지어주는 사이트</a>
