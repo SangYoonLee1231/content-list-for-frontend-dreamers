@@ -277,6 +277,8 @@
 
 ## 📌 Etc.
 
+- <a href="https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33">개발자의 성장 가능성은 어떻게 측정 가능한가?</a> (By 조은님)
+
 - <a href="http://jamestic.egloos.com/3288119">성장의 조건</a> (By 제임스님)
 
 - <a href="https://blog.shiren.dev/2021-05-17/">개발을 잘 하는 습관</a> (By Sungho Kim님)
