@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/author-SangYoonLee-lightgrey"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangYoonLee1231%2Fcontent-list-for-frontend-dreamers&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- <img src="https://img.shields.io/apm/l/vim-mode"></a> -->
 
 <!--
@@ -60,19 +61,19 @@
 
 ## 📖 목차
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">학습 자료</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-%ED%95%99%EC%8A%B5-%EC%9E%90%EB%A3%8C">학습 자료</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B3%B5%EB%B6%80%EB%B2%95-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C">개발자를 위한 공부법 및 가이드</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B3%B5%EB%B6%80%EB%B2%95-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C">개발자를 위한 공부법 및 가이드</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-%EB%B0%8F-ps-%EA%B3%B5%EB%B6%80">코딩테스트 대비 및 PS 공부</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-%EB%B0%8F-ps-%EA%B3%B5%EB%B6%80">코딩테스트 대비 및 PS 공부</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%EC%B7%A8%EC%97%85-%EB%B0%8F-%EC%9D%B4%EB%A0%A5%EC%84%9C--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4--%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84">취업 및 이력서 & 포트폴리오 준비</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-%EC%B7%A8%EC%97%85-%EB%B0%8F-%EC%9D%B4%EB%A0%A5%EC%84%9C--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4--%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%844">취업 및 이력서 & 포트폴리오 준비</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-fe-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%B0%8F-%ED%95%84%EC%9A%94%ED%95%9C-%EC%A7%80%EC%8B%9D">FE 면접 질문 및 필요한 지식</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-fe-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%B0%8F-%ED%95%84%EC%9A%94%ED%95%9C-%EC%A7%80%EC%8B%9D">FE 면접 질문 및 필요한 지식</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0">프로젝트 후기</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0">프로젝트 후기</a>
 
-📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers#-etc">Etc.</a>
+📌 <a href="https://github.com/SangYoonLee1231/content-list-for-frontend-dreamers/blob/main/README.md#-etc">Etc.</a>
 
 </div>
 
