@@ -313,3 +313,5 @@
 - <a href="https://agilemanifesto.org/iso/ko/manifesto.html">애자일 소프트웨어 개발 선언문</a>
 
 - <a href="https://www.curioustore.com/#!/">변수명을 지어주는 사이트</a>
+
+- <a href="https://devowen.com/446?utm_source=News&utm_medium=referral&utm_campaign=wecode_News&utm_content=letter2">[연봉] 2~3년차 개발자들은 연봉을 얼마나 받을까?</a>
