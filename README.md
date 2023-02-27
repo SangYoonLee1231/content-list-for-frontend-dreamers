@@ -323,3 +323,5 @@
 - <a href="https://devowen.com/446?utm_source=News&utm_medium=referral&utm_campaign=wecode_News&utm_content=letter2">[연봉] 2~3년차 개발자들은 연봉을 얼마나 받을까?</a>
 
 - <a href="https://yozm.wishket.com/magazine/detail/1901/">개발자는 ChatGPT 이렇게 활용하면 좋습니다</a>
+
+- <a href="https://yozm.wishket.com/magazine/detail/1868/">개발자 영어 공부 방법과 팁</a>
