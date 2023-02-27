@@ -325,3 +325,5 @@
 - <a href="https://yozm.wishket.com/magazine/detail/1901/">개발자는 ChatGPT 이렇게 활용하면 좋습니다</a>
 
 - <a href="https://yozm.wishket.com/magazine/detail/1868/">개발자 영어 공부 방법과 팁</a>
+
+<br/>
