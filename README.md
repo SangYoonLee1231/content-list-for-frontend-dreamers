@@ -258,6 +258,12 @@
 
 - <a href="https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/">프론트엔드 면접 문제 은행</a>
 
+- <a href="https://velog.io/@shyuuuuni/FE-인터뷰-준비-자바스크립트1">FE 인터뷰 준비 - 자바스크립트(1)</a>
+
+- <a href="https://velog.io/@shyuuuuni/FE-인터뷰-준비-자바스크립트1-nytbufb3">FE 인터뷰 준비 - 자바스크립트(2)</a>
+
+- <a href="https://velog.io/@shyuuuuni/FE-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%EB%A6%AC%EC%95%A1%ED%8A%B8">FE 인터뷰 준비 - 리액트</a>
+
 <br/>
 
 ## 📌 프로젝트 후기
