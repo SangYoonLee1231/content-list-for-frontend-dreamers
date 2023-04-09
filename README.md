@@ -326,4 +326,6 @@
 
 - <a href="https://yozm.wishket.com/magazine/detail/1868/">개발자 영어 공부 방법과 팁</a>
 
+- <a href="https://gardeny.tistory.com/41">코알못이 개발자가 되기 까지 (시리즈)</a> (By 가든리님)
+
 <br/>
