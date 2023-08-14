@@ -328,4 +328,6 @@
 
 - <a href="https://gardeny.tistory.com/41">코알못이 개발자가 되기 까지 (시리즈)</a> (By 가든리님)
 
+- <a href="https://brunch.co.kr/@kaily/40">같이 일하고 싶지 않은 개발자 특</a> (By POLEE님)
+
 <br/>
