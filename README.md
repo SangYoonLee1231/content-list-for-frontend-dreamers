@@ -330,4 +330,14 @@
 
 - <a href="https://brunch.co.kr/@kaily/40">같이 일하고 싶지 않은 개발자 특</a> (By POLEE님)
 
+- <a href="https://yozm.wishket.com/magazine/detail/2319/">좋은 엔지니어가 되려면 '경험' 쌓기가 중요합니다</a>
+
+- <a href="https://yozm.wishket.com/magazine/detail/2325/">프론트엔드 개발자가 API를 설계하는 이유</a>
+
+- <a href="https://www.inflearn.com/pages/infocus-10-20231107">개발자가 콘텐츠에 진심이면 이렇게 됩니다</a>
+
+- <a href="https://yozm.wishket.com/magazine/detail/2281/">풀스택 개발자가 되어야 하는 5가지 이유</a>
+
+- <a href="https://jeho.page/essay/2023/10/16/osamu.html">만화가에게 배우는 앱 개발</a>
+
 <br/>
