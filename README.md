@@ -97,6 +97,8 @@
 
 - <a href="https://dojang.io/">코딩 도장</a>
 
+- <a href="https://paullab.co.kr/codefestival.html">[문제 풀이 입문] 제주 코딩 베이스캠프 Code Festival Python 100제와 Javascript 100제</a>
+
 ### For 예비 프론트엔드 개발자
 
 - <a href="https://youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">생활코딩 - WEB 1 (무료 강의)</a> (By 이고잉님)
